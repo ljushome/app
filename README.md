@@ -1,2 +1,0 @@
-# ljus
-[![Codemagic build status](https://api.codemagic.io/apps/602554f8ede2fe001c40a11d/602554f8ede2fe001c40a11c/status_badge.svg)](https://codemagic.io/apps/602554f8ede2fe001c40a11d/602554f8ede2fe001c40a11c/latest_build)
